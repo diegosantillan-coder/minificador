@@ -1,0 +1,1 @@
+{"version":3,"file":"test.js","names":["holaMundo","params","console","log"],"sources":["test.js"],"mappings":"AAAA,SAASA,UAAUC,GACjBC,QAAQC,IAAI,2BACd,CAEAH","sourcesContent":["function holaMundo(params) {\r\n  console.log('Hola desde Gulp Gianluca');\r\n}\r\n\r\nholaMundo();"]}
