@@ -10,8 +10,8 @@ de v16.16.0
    `npm install`
 
 3. Dependencias necesarias: (Si por algun error no se llegan a instalar)
+   `npm i -g gulp`
 
-      
    3.1 **Gulp ^4.0.2**  ====> `npm install gulp --save-dev`
 
    - **gulp-sourcemaps ^3.0.0**
