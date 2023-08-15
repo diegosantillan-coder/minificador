@@ -1,0 +1,1 @@
+{"version":3,"sources":["exampleStyle.css"],"names":[],"mappings":"AAAA,SAIC,UAAU,CADV,YAAa,CAFb,gBAAiB,CACjB,WAGD","file":"exampleStyle.css","sourcesContent":[".ejemplo {\r\n\tmargin-left: auto;\r\n\twidth: 500px;\r\n\theight: 100px;\r\n\tcolor:blue;\r\n}"]}

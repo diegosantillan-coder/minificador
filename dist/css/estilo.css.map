@@ -1,1 +1,0 @@
-{"version":3,"sources":["estilo.css"],"names":[],"mappings":"AAAA,KAGE,0BAAiB,CADjB,UAEF","file":"estilo.css","sourcesContent":[".btn {\r\n  margin: auto;\r\n  width: 100%;\r\n  margin-left: 15px;\r\n}"]}
