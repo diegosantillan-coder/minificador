@@ -1,0 +1,91 @@
+#slide .carousel-control
+{
+  background: none;
+}
+.horizontalContainer {
+  margin: 0;
+  display: flex;
+  width: 100%;
+  max-height: 450px;
+  height: 450px;
+}
+.slideItem  {
+  padding: 0%;
+  margin-left: 0%;
+}
+
+.txtSlide {
+  padding-left: 20%;
+  padding-right: 10%;
+  padding-top: 6%;
+  float: none;
+  height: 370px;
+}
+.imgSlide {
+  float: none;
+  border: 0;
+  border-width: 0;
+  max-height: 370px;
+  height: 370px;
+  width: 100%;
+}
+
+.btnCarousel {
+  background-color: transparent;
+  border: 1px solid #2C2A29;
+  color: #292929;
+  text-transform: uppercase;
+}
+
+.linkSlide {
+  color: #292929;
+  margin-top: 30px;
+}
+
+.itemMobile {
+  height: 100%;
+  text-align: center;
+}
+.txtMobile {
+  padding: 10%;
+}
+
+.carousel-indicators li {
+    background-color: #2C2A29;
+    border: 0;
+    margin: 0;
+    width: 40px;
+    height: 8px;
+}
+
+.carousel-indicators .active {
+  background-color: #FDDA24;
+  border: 0;
+  width: 40px;
+  height: 8px;
+}
+
+.carousel.slide h2 {
+  font-family: 'CIBFontSans-Bold';
+  font-size: 32px;
+  color: #2C2A29;
+  margin: 30px 0px 10px 0px;
+}
+.carousel.slide h3, .carousel.slide p {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+
+@media screen and (max-width: 740px) {
+
+  .imgSlide {
+    float: none;
+    border: 0;
+    border-width: 0;
+    height: 250px;
+    max-height: 250px;
+  }
+
+}
